@@ -1,4 +1,6 @@
-# Rolist.AI - Privacy Policy
+# Rolist.AI
+
+## Privacy Policy
 
 Rolist.AI does not collect or use any private information.
 
